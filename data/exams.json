@@ -1,0 +1,12 @@
+{
+  "exams": [
+    {"id":"20260901-0900-A101","date":"2026-09-01","timeSlot":"09:00-11:00","roomName":"A101","roomType":"SMALL_ROOM","category":"NORMAL","courseName":"高等数学","mainTeacherId":"T001","requiredInvigilators":3,"assignedTeacherIds":[]},
+    {"id":"20260902-0900-A102","date":"2026-09-02","timeSlot":"09:00-11:00","roomName":"A102","roomType":"SMALL_ROOM","category":"NORMAL","courseName":"数据结构","mainTeacherId":"T003","requiredInvigilators":3,"assignedTeacherIds":[]},
+    {"id":"20260902-1400-A103","date":"2026-09-02","timeSlot":"14:00-16:00","roomName":"A103","roomType":"BIG_ROOM","category":"NORMAL","courseName":"数据库原理","mainTeacherId":"T005","requiredInvigilators":6,"assignedTeacherIds":[]},
+    {"id":"20260903-0900-A104","date":"2026-09-03","timeSlot":"09:00-11:00","roomName":"A104","roomType":"SMALL_ROOM","category":"NORMAL","courseName":"大学英语","mainTeacherId":"T006","requiredInvigilators":3,"assignedTeacherIds":[]},
+    {"id":"20260903-1400-A105","date":"2026-09-03","timeSlot":"14:00-16:00","roomName":"A105","roomType":"SMALL_ROOM","category":"NORMAL","courseName":"C++程序设计","mainTeacherId":"T004","requiredInvigilators":3,"assignedTeacherIds":[]},
+    {"id":"20260904-0900-A106","date":"2026-09-04","timeSlot":"09:00-11:00","roomName":"A106","roomType":"SMALL_ROOM","category":"NORMAL","courseName":"操作系统","mainTeacherId":"T008","requiredInvigilators":3,"assignedTeacherIds":[]},
+    {"id":"20260904-1400-A107","date":"2026-09-04","timeSlot":"14:00-16:00","roomName":"A107","roomType":"SMALL_ROOM","category":"NORMAL","courseName":"计算机网络","mainTeacherId":"T007","requiredInvigilators":3,"assignedTeacherIds":[]},
+    {"id":"20260905-1400-PATROL","date":"2026-09-05","timeSlot":"14:00-16:00","roomName":"PATROL","roomType":"SMALL_ROOM","category":"PATROL","courseName":"","mainTeacherId":"","requiredInvigilators":1,"assignedTeacherIds":[]}
+  ]
+}

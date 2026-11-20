@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>D:/QT_Picture/监考.png</file>
+    </qresource>
+</RCC>

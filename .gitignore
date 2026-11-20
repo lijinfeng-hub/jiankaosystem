@@ -1,0 +1,38 @@
+# ---- 构建产物 ----
+/build/
+/out/
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# ---- IDE / 编辑器 ----
+/.vs/
+CMakeLists.txt.user*
+*.user
+.vscode/
+.idea/
+
+# ---- Python ----
+__pycache__/
+*.pyc
+
+# ---- 运行时生成的数据（含口令哈希，不推送）----
+data/users.json
+data/schedules.json
+data/logs/
+
+# ---- 日志 ----
+*.log
+
+# ---- 本地保留、不推送的交付物 ----
+/qa/
+/outputs/
+/docs/
+/*.docx
+
+# ---- 系统文件 ----
+Thumbs.db
+.DS_Store
+desktop.ini

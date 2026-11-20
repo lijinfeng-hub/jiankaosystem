@@ -1,0 +1,162 @@
+{
+  "teachers": [
+    {
+      "id": "T001",
+      "name": "王建国",
+      "title": "PROFESSOR",
+      "courses": ["高等数学", "数学分析"],
+      "busySlots": [],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T002",
+      "name": "李娜",
+      "title": "ASSOCIATE_PROFESSOR",
+      "courses": ["线性代数", "高等数学"],
+      "busySlots": [
+        {
+          "slotKey": "2026-09-01|09:00-11:00",
+          "reason": "参加教学研讨会"
+        }
+      ],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T003",
+      "name": "张伟",
+      "title": "LECTURER",
+      "courses": ["数据结构", "算法设计"],
+      "busySlots": [
+        {
+          "slotKey": "2026-09-01|09:00-11:00",
+          "reason": "外出培训"
+        }
+      ],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T004",
+      "name": "刘芳",
+      "title": "LECTURER",
+      "courses": ["C++程序设计", "面向对象程序设计"],
+      "busySlots": [
+        {
+          "slotKey": "2026-09-01|14:00-16:00",
+          "reason": "课程答疑"
+        }
+      ],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T005",
+      "name": "陈明",
+      "title": "LECTURER",
+      "courses": ["数据库原理", "数据库应用"],
+      "busySlots": [
+        {
+          "slotKey": "2026-09-02|09:00-11:00",
+          "reason": "校外项目会议"
+        }
+      ],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T006",
+      "name": "赵敏",
+      "title": "ASSISTANT",
+      "courses": ["大学英语"],
+      "busySlots": [
+        {
+          "slotKey": "2026-09-02|14:00-16:00",
+          "reason": "实验课准备"
+        }
+      ],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T007",
+      "name": "周强",
+      "title": "ASSISTANT",
+      "courses": ["计算机网络"],
+      "busySlots": [
+        {
+          "slotKey": "2026-09-03|09:00-11:00",
+          "reason": "实验室值班"
+        }
+      ],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T008",
+      "name": "黄琳",
+      "title": "ASSISTANT",
+      "courses": ["操作系统"],
+      "busySlots": [
+        {
+          "slotKey": "2026-09-03|14:00-16:00",
+          "reason": "参加科研组例会"
+        }
+      ],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T009",
+      "name": "吴涛",
+      "title": "LECTURER",
+      "courses": ["软件工程", "Java程序设计"],
+      "busySlots": [
+        {
+          "slotKey": "2026-09-04|09:00-11:00",
+          "reason": "参加专业建设会议"
+        }
+      ],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T010",
+      "name": "何静",
+      "title": "ASSISTANT",
+      "courses": ["计算机组成原理"],
+      "busySlots": [
+        {
+          "slotKey": "2026-09-04|14:00-16:00",
+          "reason": "指导课程实验"
+        }
+      ],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T011",
+      "name": "郑凯",
+      "title": "ASSISTANT",
+      "courses": ["概率论与数理统计"],
+      "busySlots": [],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    },
+    {
+      "id": "T012",
+      "name": "孙悦",
+      "title": "LECTURER",
+      "courses": ["Web开发", "软件测试"],
+      "busySlots": [
+        {
+          "slotKey": "2026-09-05|09:00-11:00",
+          "reason": "参加校企合作交流"
+        }
+      ],
+      "assignedCount": 0,
+      "assignedExamIds": []
+    }
+  ]
+}
